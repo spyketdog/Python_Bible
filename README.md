@@ -1,2 +1,3 @@
-# Python_Bible
-Python Bible code exercises
+# Python_Bible Studies
+
+Code exercises.
