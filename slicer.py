@@ -4,7 +4,7 @@ email = input("What is your email address: ").strip()
 # Slice out user name
 user = email[:email.index("@")]
 
-# Slice domain name
+# Slice out domain name
 domain = email[email.index("@") + 1:]
 
 # Format message
